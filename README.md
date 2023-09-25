@@ -6,6 +6,8 @@ Use database files as a configuration file
 
 ## Usage
 
+Here is a simple example of how to use this module.
+
 ```python
 import py_db_config
 
