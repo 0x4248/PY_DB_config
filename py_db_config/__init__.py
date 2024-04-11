@@ -1,8 +1,8 @@
 # PY DB Config
 # Use database files as a configuration file
-# Github: https://www.github.com/lewisevans2007/PY_DB_config
+# Github: https://www.github.com/0x4248/PY_DB_config
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 import sqlite3
 
